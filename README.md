@@ -1,8 +1,8 @@
 # Array Search
 
-***October 16, 2022***
+***April 22, 2021***
 
-
+Prompts user to enter a number and checks if it is valid.
 
 ## Used In This Repository
 
