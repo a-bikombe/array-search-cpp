@@ -10,14 +10,6 @@ Prompts user to enter a number and checks if it is valid.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
